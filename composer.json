@@ -1,0 +1,21 @@
+{
+  "name": "dariuszdusza/phpmysqlxml",
+  "version": "dev-master",
+  "description": "Simple php mysql xml database api",
+  "authors": [
+    {
+      "name": "Dariusz Dusza",
+      "email": "dariuszdusza@yahoo.com"
+    }
+  ],
+  "license": "MIT",
+  "require"          : {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dariuszdusza\\Phpmysqlxml\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
